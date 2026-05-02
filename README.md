@@ -57,5 +57,10 @@ The chatbot uses a structured HR evaluation prompt to generate:
 The project is deployed using **Vercel** and accessible via a public link.
 
 ---
+## 📌 How to Run Locally
 
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/ai-resume-assistant.git
+Open index.html in browser
 ---
